@@ -56,7 +56,7 @@ idna==3.11
 imagecodecs==2026.1.14
 ImageIO==2.37.2
 importlib_resources==6.5.2
--e git+https://github.com/3tagoras/MVTec-AD.git@60c3c996ab20f9126769e1cefe015c52d48ae785#egg=industrial_anomaly_detector
+-e git+https://github.com/3tagoras/MVTec-AD.git@420198db35b898e35a280ef873450d6246a5f83c#egg=industrial_anomaly_detector
 iniconfig==2.3.0
 ipykernel==7.2.0
 ipython==9.10.0
@@ -181,6 +181,7 @@ safetensors==0.7.0
 scikit-image==0.26.0
 scikit-learn==1.8.0
 scipy==1.17.1
+seaborn==0.13.2
 Send2Trash==2.1.0
 setuptools==82.0.0
 shellingham==1.5.4
