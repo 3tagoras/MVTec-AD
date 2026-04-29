@@ -140,7 +140,7 @@ libclang==18.1.1
 lightning==2.6.1
 lightning-utilities==0.15.3
 litellm==1.82.5
-Mako==1.3.10
+Mako==1.3.11
 Markdown==3.10.2
 markdown-it-py==4.0.0
 MarkupSafe==3.0.3
